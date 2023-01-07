@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+
+.container {
+  margin: auto;
+  width: 90vw;
+
+  /* position: absolute; */
+  /* width: 1651px; */
+  /* height: 1115px; */
+  /* top: -558px;
+    left: -826px; */
+}
+
+.positiveValues {
+  color: greenyellow;
+}
+
+.negativeValues {
+  color: rgb(255, 47, 78);
+}
+
+table {
+  width: 100%;
+  background-color: black;
+  color: whitesmoke;
+  height: 520px;
+  /* height: 100%; */
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid white;
+  text-align: center;
+}
+
+td img {
+  width: 55px;
+  height: 55px;
+}
